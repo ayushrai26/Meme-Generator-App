@@ -23,8 +23,8 @@ Live Demo 👉 [Meme Generator](https://meme-appp-ayush-rais-projects-22ebbee0.v
 ## ⚙️ Installation
 
 # Clone the repo
-```
 git clone https://github.com/ayushrai26/Meme-Generator-App.git
+
 cd meme
 
 # Install dependencies
@@ -33,7 +33,7 @@ npm install
 # Start development server
 npm start
 
-```
+
 
 # Folder Struture 
 ```
